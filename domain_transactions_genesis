@@ -3,5 +3,5 @@
 {"reqSignature":{},"txn":{"data":{"alias":"GammaTrustee","dest":"WwmoWGCHpxrRAED49QJjJC","role":"0","verkey":"~473MZeratMX6X5QQRfyTrn"},"metadata":{},"type":"1"},"txnMetadata":{"seqNo":3},"ver":"1"}
 {"reqSignature":{},"txn":{"data":{"dest":"4SBPQdqiyrEp3SVUwvaRPg","role":"2","verkey":"~TXknY8GTvKCjkD44jkzg5m"},"metadata":{"from":"WwmoWGCHpxrRAED49QJjJC"},"type":"1"},"txnMetadata":{"seqNo":4},"ver":"1"}
 {"reqSignature":{},"txn":{"data":{"dest":"G9Rdw3ubpo5ZhVpq5Sj3Uw","role":"2","verkey":"~CtCkRjBzXVZF36UVAempmX"},"metadata":{"from":"WwmoWGCHpxrRAED49QJjJC"},"type":"1"},"txnMetadata":{"seqNo":5},"ver":"1"}
-{"reqSignature":{},"txn":{"data":{"dest":"FhhURgQzH5o8QUYyb7VYe","role":"2","verkey":"~KG4MJbR5vmY4hVcoSaDJNm"},"metadata":{"from":"WwmoWGCHpxrRAED49QJjJC"},"type":"1"},"txnMetadata":{"seqNo":6},"ver":"1"}
-{"reqSignature":{},"txn":{"data":{"dest":"RhnJPYKjgtWLPTnw5MpqCz","role":"2","verkey":"~Wag8cQ6ugiXZFRmvrsCs6A"},"metadata":{"from":"WwmoWGCHpxrRAED49QJjJC"},"type":"1"},"txnMetadata":{"seqNo":7},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"4SBPQdqiyrEp3SVUwvaRPg","role":"2","verkey":"~TXknY8GTvKCjkD44jkzg5m"},"metadata":{"from":"WwmoWGCHpxrRAED49QJjJC"},"type":"1"},"txnMetadata":{"seqNo":6},"ver":"1"}
+{"reqSignature":{},"txn":{"data":{"dest":"G9Rdw3ubpo5ZhVpq5Sj3Uw","role":"2","verkey":"~CtCkRjBzXVZF36UVAempmX"},"metadata":{"from":"WwmoWGCHpxrRAED49QJjJC"},"type":"1"},"txnMetadata":{"seqNo":7},"ver":"1"}
